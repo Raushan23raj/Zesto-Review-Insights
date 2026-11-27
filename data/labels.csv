@@ -1,0 +1,455 @@
+review_id,theme,sub_theme,sentiment
+VAL-00001,App Experience,Search & Navigation,negative
+VAL-00001,Order Accuracy,Missing Items,negative
+VAL-00002,Food Quality,Portion Size,positive
+VAL-00003,Customer Support,Refunds,negative
+VAL-00003,App Experience,Payments,negative
+VAL-00004,Customer Support,Support Responsiveness,negative
+VAL-00004,Order Accuracy,Missing Items,negative
+VAL-00005,Customer Support,Refunds,negative
+VAL-00005,Pricing & Offers,Value for Money,negative
+VAL-00006,Pricing & Offers,Value for Money,negative
+VAL-00007,App Experience,Crashes & Bugs,positive
+VAL-00008,Delivery,Delivery Time,positive
+VAL-00009,Delivery,Delivery Time,positive
+VAL-00009,Pricing & Offers,Fees & Charges,negative
+VAL-00010,App Experience,Crashes & Bugs,positive
+VAL-00011,Customer Support,Support Responsiveness,negative
+VAL-00011,Delivery,Delivery Time,negative
+VAL-00011,Food Quality,Temperature & Freshness,positive
+VAL-00012,App Experience,Search & Navigation,negative
+VAL-00013,Delivery,Delivery Time,negative
+VAL-00014,Delivery,Delivery Time,negative
+VAL-00014,Customer Support,Refunds,negative
+VAL-00015,App Experience,Payments,negative
+VAL-00016,NONE,NONE,neutral
+VAL-00017,Food Quality,Portion Size,negative
+VAL-00018,Customer Support,Refunds,negative
+VAL-00019,Pricing & Offers,Fees & Charges,negative
+VAL-00020,Packaging,Packaging Quality,negative
+VAL-00021,Customer Support,Support Responsiveness,negative
+VAL-00021,App Experience,Payments,positive
+VAL-00022,Food Quality,Taste,negative
+VAL-00022,Packaging,Spillage & Leakage,negative
+VAL-00023,App Experience,Payments,negative
+VAL-00023,Customer Support,Support Responsiveness,negative
+VAL-00024,Food Quality,Temperature & Freshness,negative
+VAL-00025,Packaging,Spillage & Leakage,negative
+VAL-00026,App Experience,Crashes & Bugs,negative
+VAL-00026,Order Accuracy,Missing Items,positive
+VAL-00027,Packaging,Spillage & Leakage,negative
+VAL-00027,App Experience,Search & Navigation,negative
+VAL-00028,Packaging,Packaging Quality,negative
+VAL-00028,Delivery,Order Tracking,negative
+VAL-00029,Pricing & Offers,Value for Money,positive
+VAL-00030,Packaging,Packaging Quality,negative
+VAL-00030,Food Quality,Taste,negative
+VAL-00031,Pricing & Offers,Coupons & Discounts,positive
+VAL-00032,Food Quality,Portion Size,negative
+VAL-00032,Customer Support,Refunds,negative
+VAL-00032,Delivery,Delivery Partner Behaviour,negative
+VAL-00033,Food Quality,Taste,negative
+VAL-00033,Order Accuracy,Wrong Items,positive
+VAL-00034,Packaging,Spillage & Leakage,negative
+VAL-00035,Order Accuracy,Missing Items,positive
+VAL-00035,Food Quality,Temperature & Freshness,negative
+VAL-00036,Delivery,Delivery Time,positive
+VAL-00036,App Experience,Payments,positive
+VAL-00036,Packaging,Spillage & Leakage,negative
+VAL-00037,App Experience,Payments,negative
+VAL-00038,Customer Support,Support Responsiveness,negative
+VAL-00039,Delivery,Order Tracking,negative
+VAL-00039,Customer Support,Refunds,positive
+VAL-00040,App Experience,Crashes & Bugs,negative
+VAL-00041,Pricing & Offers,Coupons & Discounts,negative
+VAL-00041,App Experience,Payments,positive
+VAL-00042,Pricing & Offers,Fees & Charges,negative
+VAL-00042,Delivery,Delivery Partner Behaviour,positive
+VAL-00043,Delivery,Order Tracking,positive
+VAL-00043,Order Accuracy,Missing Items,positive
+VAL-00044,App Experience,Crashes & Bugs,positive
+VAL-00044,Pricing & Offers,Coupons & Discounts,negative
+VAL-00045,Food Quality,Portion Size,negative
+VAL-00046,App Experience,Payments,negative
+VAL-00047,Packaging,Spillage & Leakage,negative
+VAL-00048,NONE,NONE,neutral
+VAL-00049,App Experience,Payments,negative
+VAL-00049,Packaging,Packaging Quality,positive
+VAL-00050,Customer Support,Refunds,negative
+VAL-00051,Food Quality,Taste,negative
+VAL-00051,Delivery,Delivery Time,negative
+VAL-00052,Order Accuracy,Missing Items,positive
+VAL-00053,Pricing & Offers,Value for Money,negative
+VAL-00053,Order Accuracy,Missing Items,negative
+VAL-00053,Food Quality,Taste,negative
+VAL-00054,NONE,NONE,neutral
+VAL-00055,Order Accuracy,Wrong Items,negative
+VAL-00055,Delivery,Delivery Time,negative
+VAL-00056,App Experience,Crashes & Bugs,negative
+VAL-00056,Pricing & Offers,Fees & Charges,negative
+VAL-00057,Customer Support,Refunds,negative
+VAL-00057,Order Accuracy,Missing Items,positive
+VAL-00058,Food Quality,Temperature & Freshness,negative
+VAL-00059,App Experience,Search & Navigation,negative
+VAL-00059,Customer Support,Refunds,positive
+VAL-00060,App Experience,Crashes & Bugs,negative
+VAL-00061,Delivery,Delivery Partner Behaviour,positive
+VAL-00062,App Experience,Payments,negative
+VAL-00063,Pricing & Offers,Fees & Charges,negative
+VAL-00063,Delivery,Delivery Time,negative
+VAL-00064,NONE,NONE,neutral
+VAL-00065,App Experience,Crashes & Bugs,negative
+VAL-00066,Customer Support,Support Responsiveness,negative
+VAL-00067,Packaging,Packaging Quality,positive
+VAL-00068,Delivery,Order Tracking,positive
+VAL-00068,Packaging,Spillage & Leakage,positive
+VAL-00069,Customer Support,Support Responsiveness,positive
+VAL-00069,Order Accuracy,Missing Items,negative
+VAL-00069,Food Quality,Taste,positive
+VAL-00070,Food Quality,Taste,positive
+VAL-00071,Delivery,Delivery Partner Behaviour,positive
+VAL-00072,App Experience,Crashes & Bugs,negative
+VAL-00072,Customer Support,Refunds,negative
+VAL-00073,Pricing & Offers,Coupons & Discounts,negative
+VAL-00074,Delivery,Delivery Time,negative
+VAL-00074,Food Quality,Temperature & Freshness,negative
+VAL-00075,Pricing & Offers,Value for Money,negative
+VAL-00076,Customer Support,Refunds,positive
+VAL-00077,Pricing & Offers,Value for Money,negative
+VAL-00077,Packaging,Spillage & Leakage,negative
+VAL-00077,Order Accuracy,Wrong Items,positive
+VAL-00078,Packaging,Spillage & Leakage,negative
+VAL-00078,Pricing & Offers,Coupons & Discounts,negative
+VAL-00079,Food Quality,Temperature & Freshness,positive
+VAL-00080,Food Quality,Portion Size,negative
+VAL-00081,Customer Support,Refunds,positive
+VAL-00081,Delivery,Delivery Time,negative
+VAL-00081,App Experience,Payments,negative
+VAL-00082,Delivery,Delivery Time,positive
+VAL-00082,Pricing & Offers,Fees & Charges,negative
+VAL-00083,App Experience,Crashes & Bugs,negative
+VAL-00083,Food Quality,Taste,negative
+VAL-00084,NONE,NONE,neutral
+VAL-00085,Pricing & Offers,Fees & Charges,positive
+VAL-00085,Customer Support,Refunds,negative
+VAL-00086,Delivery,Delivery Time,negative
+VAL-00086,Food Quality,Taste,negative
+VAL-00087,Pricing & Offers,Coupons & Discounts,positive
+VAL-00088,Packaging,Packaging Quality,negative
+VAL-00089,Food Quality,Taste,positive
+VAL-00089,Delivery,Delivery Time,positive
+VAL-00090,Pricing & Offers,Coupons & Discounts,positive
+VAL-00091,App Experience,Payments,negative
+VAL-00091,Pricing & Offers,Coupons & Discounts,negative
+VAL-00092,Packaging,Packaging Quality,negative
+VAL-00093,Delivery,Delivery Time,positive
+VAL-00094,Delivery,Delivery Time,positive
+VAL-00094,App Experience,Search & Navigation,negative
+VAL-00095,App Experience,Crashes & Bugs,positive
+VAL-00096,Order Accuracy,Wrong Items,negative
+VAL-00097,Food Quality,Temperature & Freshness,negative
+VAL-00097,Order Accuracy,Missing Items,positive
+VAL-00097,Packaging,Spillage & Leakage,positive
+VAL-00098,Customer Support,Refunds,negative
+VAL-00099,Delivery,Delivery Partner Behaviour,positive
+VAL-00099,Order Accuracy,Missing Items,positive
+VAL-00099,Pricing & Offers,Fees & Charges,negative
+VAL-00100,Order Accuracy,Missing Items,positive
+VAL-00101,Delivery,Delivery Time,negative
+VAL-00102,Food Quality,Portion Size,negative
+VAL-00102,Pricing & Offers,Coupons & Discounts,negative
+VAL-00102,Delivery,Delivery Time,negative
+VAL-00103,Delivery,Order Tracking,negative
+VAL-00104,App Experience,Search & Navigation,negative
+VAL-00105,Delivery,Order Tracking,negative
+VAL-00106,Delivery,Delivery Time,negative
+VAL-00107,App Experience,Search & Navigation,negative
+VAL-00107,Delivery,Delivery Time,negative
+VAL-00108,NONE,NONE,neutral
+VAL-00109,Packaging,Spillage & Leakage,negative
+VAL-00109,Delivery,Delivery Partner Behaviour,positive
+VAL-00109,Order Accuracy,Wrong Items,negative
+VAL-00110,Delivery,Order Tracking,negative
+VAL-00110,Order Accuracy,Missing Items,negative
+VAL-00111,Customer Support,Refunds,negative
+VAL-00112,Customer Support,Refunds,negative
+VAL-00112,Pricing & Offers,Value for Money,negative
+VAL-00113,Order Accuracy,Missing Items,positive
+VAL-00113,Customer Support,Support Responsiveness,negative
+VAL-00114,Order Accuracy,Missing Items,positive
+VAL-00114,Packaging,Packaging Quality,negative
+VAL-00114,Delivery,Delivery Time,negative
+VAL-00115,Food Quality,Temperature & Freshness,negative
+VAL-00116,Customer Support,Refunds,positive
+VAL-00116,Food Quality,Temperature & Freshness,negative
+VAL-00117,Customer Support,Refunds,positive
+VAL-00118,App Experience,Payments,positive
+VAL-00119,Pricing & Offers,Fees & Charges,positive
+VAL-00120,Delivery,Delivery Partner Behaviour,negative
+VAL-00121,App Experience,Crashes & Bugs,negative
+VAL-00121,Delivery,Delivery Time,negative
+VAL-00122,Customer Support,Support Responsiveness,negative
+VAL-00122,Food Quality,Taste,positive
+VAL-00123,Pricing & Offers,Coupons & Discounts,negative
+VAL-00124,Delivery,Delivery Time,negative
+VAL-00124,Pricing & Offers,Fees & Charges,negative
+VAL-00125,Delivery,Delivery Time,negative
+VAL-00126,Customer Support,Refunds,positive
+VAL-00126,Food Quality,Taste,positive
+VAL-00126,Delivery,Delivery Time,positive
+VAL-00127,Food Quality,Taste,positive
+VAL-00128,App Experience,Search & Navigation,positive
+VAL-00129,Order Accuracy,Missing Items,negative
+VAL-00130,Customer Support,Refunds,negative
+VAL-00131,App Experience,Search & Navigation,negative
+VAL-00132,Food Quality,Portion Size,negative
+VAL-00132,Delivery,Delivery Partner Behaviour,negative
+VAL-00133,Food Quality,Taste,negative
+VAL-00133,Delivery,Delivery Partner Behaviour,negative
+VAL-00134,Food Quality,Temperature & Freshness,negative
+VAL-00135,Delivery,Delivery Time,negative
+VAL-00136,Food Quality,Temperature & Freshness,negative
+VAL-00137,Packaging,Packaging Quality,positive
+VAL-00137,Order Accuracy,Missing Items,negative
+VAL-00138,Packaging,Spillage & Leakage,positive
+VAL-00139,Customer Support,Refunds,negative
+VAL-00139,App Experience,Crashes & Bugs,negative
+VAL-00140,App Experience,Crashes & Bugs,negative
+VAL-00141,Food Quality,Temperature & Freshness,positive
+VAL-00142,Packaging,Packaging Quality,negative
+VAL-00143,Pricing & Offers,Coupons & Discounts,positive
+VAL-00144,Pricing & Offers,Value for Money,negative
+VAL-00144,Delivery,Delivery Time,negative
+VAL-00145,Food Quality,Taste,positive
+VAL-00146,Pricing & Offers,Value for Money,negative
+VAL-00147,NONE,NONE,neutral
+VAL-00148,Delivery,Delivery Time,negative
+VAL-00149,Food Quality,Taste,negative
+VAL-00149,Delivery,Delivery Time,positive
+VAL-00150,Food Quality,Taste,negative
+VAL-00151,Packaging,Spillage & Leakage,negative
+VAL-00152,Customer Support,Refunds,positive
+VAL-00153,Pricing & Offers,Fees & Charges,negative
+VAL-00153,Delivery,Delivery Time,positive
+VAL-00154,Food Quality,Portion Size,negative
+VAL-00155,Food Quality,Temperature & Freshness,negative
+VAL-00155,Packaging,Packaging Quality,positive
+VAL-00155,Order Accuracy,Missing Items,negative
+VAL-00156,Customer Support,Support Responsiveness,negative
+VAL-00156,Food Quality,Temperature & Freshness,negative
+VAL-00156,Pricing & Offers,Fees & Charges,positive
+VAL-00157,Packaging,Spillage & Leakage,negative
+VAL-00158,App Experience,Crashes & Bugs,positive
+VAL-00159,Customer Support,Refunds,positive
+VAL-00160,Food Quality,Temperature & Freshness,negative
+VAL-00160,App Experience,Crashes & Bugs,positive
+VAL-00160,Pricing & Offers,Fees & Charges,positive
+VAL-00161,Pricing & Offers,Coupons & Discounts,positive
+VAL-00162,App Experience,Crashes & Bugs,negative
+VAL-00163,Pricing & Offers,Coupons & Discounts,negative
+VAL-00163,App Experience,Search & Navigation,negative
+VAL-00164,App Experience,Crashes & Bugs,negative
+VAL-00165,Delivery,Delivery Time,negative
+VAL-00166,Order Accuracy,Missing Items,negative
+VAL-00167,App Experience,Payments,negative
+VAL-00168,Food Quality,Temperature & Freshness,negative
+VAL-00169,Food Quality,Portion Size,negative
+VAL-00170,App Experience,Crashes & Bugs,negative
+VAL-00171,Food Quality,Taste,negative
+VAL-00172,Food Quality,Temperature & Freshness,positive
+VAL-00173,Delivery,Delivery Partner Behaviour,negative
+VAL-00174,Pricing & Offers,Fees & Charges,positive
+VAL-00175,Pricing & Offers,Coupons & Discounts,negative
+VAL-00175,Packaging,Packaging Quality,negative
+VAL-00176,Food Quality,Portion Size,negative
+VAL-00176,Delivery,Delivery Time,negative
+VAL-00177,Delivery,Delivery Time,negative
+VAL-00178,Delivery,Delivery Time,positive
+VAL-00178,Food Quality,Taste,negative
+VAL-00179,Delivery,Delivery Partner Behaviour,positive
+VAL-00179,App Experience,Crashes & Bugs,positive
+VAL-00180,App Experience,Crashes & Bugs,negative
+VAL-00181,Order Accuracy,Missing Items,negative
+VAL-00182,Food Quality,Temperature & Freshness,negative
+VAL-00182,Packaging,Spillage & Leakage,negative
+VAL-00183,Delivery,Delivery Time,negative
+VAL-00183,Packaging,Spillage & Leakage,positive
+VAL-00183,App Experience,Search & Navigation,positive
+VAL-00184,Delivery,Delivery Time,negative
+VAL-00185,Food Quality,Taste,negative
+VAL-00185,Order Accuracy,Missing Items,negative
+VAL-00185,Customer Support,Support Responsiveness,negative
+VAL-00186,Packaging,Packaging Quality,positive
+VAL-00187,Delivery,Delivery Time,negative
+VAL-00188,Packaging,Spillage & Leakage,negative
+VAL-00188,Customer Support,Refunds,negative
+VAL-00189,Delivery,Delivery Time,negative
+VAL-00189,Food Quality,Taste,negative
+VAL-00190,Pricing & Offers,Coupons & Discounts,positive
+VAL-00191,Order Accuracy,Missing Items,negative
+VAL-00191,Delivery,Order Tracking,positive
+VAL-00192,Pricing & Offers,Fees & Charges,positive
+VAL-00192,App Experience,Search & Navigation,negative
+VAL-00193,Food Quality,Temperature & Freshness,negative
+VAL-00193,Packaging,Spillage & Leakage,positive
+VAL-00193,Customer Support,Refunds,negative
+VAL-00194,Delivery,Delivery Time,negative
+VAL-00195,App Experience,Payments,positive
+VAL-00195,Food Quality,Taste,positive
+VAL-00195,Pricing & Offers,Coupons & Discounts,positive
+VAL-00196,App Experience,Payments,positive
+VAL-00197,App Experience,Search & Navigation,positive
+VAL-00198,Pricing & Offers,Coupons & Discounts,negative
+VAL-00198,Delivery,Delivery Time,positive
+VAL-00199,Delivery,Delivery Time,negative
+VAL-00199,Food Quality,Taste,negative
+VAL-00200,Delivery,Delivery Time,negative
+VAL-00200,App Experience,Crashes & Bugs,negative
+VAL-00201,Order Accuracy,Wrong Items,negative
+VAL-00202,Pricing & Offers,Coupons & Discounts,negative
+VAL-00202,Customer Support,Support Responsiveness,positive
+VAL-00203,Pricing & Offers,Fees & Charges,negative
+VAL-00204,Customer Support,Support Responsiveness,negative
+VAL-00205,Order Accuracy,Missing Items,negative
+VAL-00205,App Experience,Payments,positive
+VAL-00206,Food Quality,Taste,negative
+VAL-00206,Pricing & Offers,Coupons & Discounts,positive
+VAL-00207,Delivery,Delivery Partner Behaviour,positive
+VAL-00207,Food Quality,Portion Size,positive
+VAL-00208,Food Quality,Taste,positive
+VAL-00208,App Experience,Search & Navigation,negative
+VAL-00208,Pricing & Offers,Value for Money,negative
+VAL-00209,Packaging,Packaging Quality,negative
+VAL-00209,Pricing & Offers,Coupons & Discounts,negative
+VAL-00210,Customer Support,Refunds,negative
+VAL-00210,Delivery,Delivery Time,negative
+VAL-00210,Food Quality,Portion Size,negative
+VAL-00211,App Experience,Payments,negative
+VAL-00212,App Experience,Payments,negative
+VAL-00213,Customer Support,Support Responsiveness,negative
+VAL-00213,Delivery,Delivery Time,negative
+VAL-00214,Packaging,Packaging Quality,positive
+VAL-00215,App Experience,Search & Navigation,negative
+VAL-00216,Food Quality,Taste,negative
+VAL-00217,App Experience,Search & Navigation,negative
+VAL-00218,Delivery,Delivery Time,negative
+VAL-00219,Delivery,Delivery Time,negative
+VAL-00220,App Experience,Payments,negative
+VAL-00221,App Experience,Search & Navigation,positive
+VAL-00221,Food Quality,Portion Size,negative
+VAL-00222,Order Accuracy,Missing Items,negative
+VAL-00223,Food Quality,Temperature & Freshness,positive
+VAL-00224,Food Quality,Taste,positive
+VAL-00224,App Experience,Crashes & Bugs,negative
+VAL-00225,Food Quality,Temperature & Freshness,negative
+VAL-00226,Food Quality,Taste,positive
+VAL-00226,Delivery,Delivery Time,negative
+VAL-00227,Food Quality,Portion Size,negative
+VAL-00228,Food Quality,Taste,negative
+VAL-00229,App Experience,Payments,negative
+VAL-00230,Customer Support,Refunds,positive
+VAL-00231,Delivery,Delivery Time,negative
+VAL-00232,Delivery,Delivery Time,negative
+VAL-00232,Customer Support,Support Responsiveness,positive
+VAL-00233,Pricing & Offers,Fees & Charges,positive
+VAL-00233,App Experience,Crashes & Bugs,positive
+VAL-00233,Customer Support,Refunds,negative
+VAL-00234,Packaging,Spillage & Leakage,negative
+VAL-00234,Food Quality,Portion Size,positive
+VAL-00235,Packaging,Spillage & Leakage,negative
+VAL-00236,App Experience,Payments,negative
+VAL-00237,Food Quality,Temperature & Freshness,negative
+VAL-00237,Delivery,Order Tracking,negative
+VAL-00238,Food Quality,Portion Size,negative
+VAL-00238,Order Accuracy,Wrong Items,negative
+VAL-00238,Delivery,Delivery Time,positive
+VAL-00239,Delivery,Delivery Time,positive
+VAL-00239,App Experience,Search & Navigation,negative
+VAL-00240,Customer Support,Refunds,negative
+VAL-00241,Order Accuracy,Missing Items,negative
+VAL-00242,Packaging,Packaging Quality,negative
+VAL-00243,App Experience,Crashes & Bugs,negative
+VAL-00244,NONE,NONE,neutral
+VAL-00245,NONE,NONE,neutral
+VAL-00246,App Experience,Search & Navigation,negative
+VAL-00247,Food Quality,Taste,negative
+VAL-00248,Packaging,Spillage & Leakage,negative
+VAL-00249,Delivery,Delivery Time,negative
+VAL-00250,Delivery,Delivery Time,negative
+VAL-00251,NONE,NONE,neutral
+VAL-00252,Food Quality,Taste,negative
+VAL-00253,Food Quality,Temperature & Freshness,positive
+VAL-00253,App Experience,Payments,negative
+VAL-00254,Food Quality,Temperature & Freshness,negative
+VAL-00254,Pricing & Offers,Fees & Charges,negative
+VAL-00255,App Experience,Crashes & Bugs,negative
+VAL-00256,Food Quality,Temperature & Freshness,negative
+VAL-00256,Order Accuracy,Missing Items,negative
+VAL-00257,Delivery,Delivery Partner Behaviour,negative
+VAL-00258,Delivery,Delivery Time,negative
+VAL-00259,Packaging,Packaging Quality,negative
+VAL-00259,Customer Support,Refunds,positive
+VAL-00259,Order Accuracy,Wrong Items,positive
+VAL-00260,Delivery,Order Tracking,negative
+VAL-00261,Order Accuracy,Missing Items,positive
+VAL-00262,Packaging,Packaging Quality,negative
+VAL-00263,Food Quality,Portion Size,negative
+VAL-00264,Pricing & Offers,Fees & Charges,negative
+VAL-00265,Delivery,Order Tracking,negative
+VAL-00265,Pricing & Offers,Value for Money,negative
+VAL-00266,App Experience,Payments,negative
+VAL-00267,Pricing & Offers,Coupons & Discounts,negative
+VAL-00268,Food Quality,Portion Size,positive
+VAL-00268,Customer Support,Support Responsiveness,negative
+VAL-00269,Packaging,Spillage & Leakage,negative
+VAL-00269,Food Quality,Portion Size,positive
+VAL-00270,Pricing & Offers,Fees & Charges,positive
+VAL-00271,Customer Support,Refunds,negative
+VAL-00272,Food Quality,Portion Size,negative
+VAL-00273,Customer Support,Support Responsiveness,negative
+VAL-00274,App Experience,Crashes & Bugs,negative
+VAL-00275,Delivery,Delivery Time,negative
+VAL-00275,Pricing & Offers,Fees & Charges,negative
+VAL-00276,Food Quality,Taste,negative
+VAL-00277,Food Quality,Temperature & Freshness,positive
+VAL-00277,Customer Support,Support Responsiveness,negative
+VAL-00278,Food Quality,Portion Size,positive
+VAL-00278,App Experience,Crashes & Bugs,positive
+VAL-00279,Packaging,Spillage & Leakage,positive
+VAL-00279,Customer Support,Refunds,negative
+VAL-00280,App Experience,Crashes & Bugs,positive
+VAL-00281,Customer Support,Support Responsiveness,negative
+VAL-00281,Food Quality,Portion Size,negative
+VAL-00281,Order Accuracy,Wrong Items,negative
+VAL-00282,Packaging,Packaging Quality,positive
+VAL-00282,Customer Support,Refunds,positive
+VAL-00283,Pricing & Offers,Value for Money,negative
+VAL-00284,Customer Support,Support Responsiveness,positive
+VAL-00285,Food Quality,Temperature & Freshness,positive
+VAL-00285,Pricing & Offers,Fees & Charges,negative
+VAL-00286,Order Accuracy,Wrong Items,negative
+VAL-00286,Food Quality,Portion Size,negative
+VAL-00287,Pricing & Offers,Value for Money,negative
+VAL-00287,Delivery,Delivery Time,positive
+VAL-00288,Packaging,Spillage & Leakage,positive
+VAL-00288,Food Quality,Taste,negative
+VAL-00289,Delivery,Delivery Time,negative
+VAL-00290,Delivery,Delivery Time,negative
+VAL-00290,Food Quality,Temperature & Freshness,negative
+VAL-00291,Order Accuracy,Wrong Items,negative
+VAL-00291,Delivery,Delivery Time,positive
+VAL-00292,Order Accuracy,Missing Items,positive
+VAL-00292,Delivery,Delivery Time,positive
+VAL-00293,App Experience,Search & Navigation,positive
+VAL-00294,Food Quality,Taste,negative
+VAL-00294,Customer Support,Support Responsiveness,negative
+VAL-00295,Food Quality,Taste,negative
+VAL-00296,NONE,NONE,neutral
+VAL-00297,Customer Support,Support Responsiveness,negative
+VAL-00297,Order Accuracy,Missing Items,negative
+VAL-00298,Customer Support,Support Responsiveness,positive
+VAL-00299,Food Quality,Taste,negative
+VAL-00299,App Experience,Payments,positive
+VAL-00299,Customer Support,Refunds,negative
+VAL-00300,Delivery,Delivery Partner Behaviour,negative
+VAL-00300,Food Quality,Temperature & Freshness,negative

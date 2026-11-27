@@ -1,0 +1,7 @@
+.env
+node_modules/
+__pycache__/
+*.pyc
+frontend/dist/
+db.sqlite3
+my_labels.csv

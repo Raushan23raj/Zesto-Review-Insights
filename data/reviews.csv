@@ -1,0 +1,301 @@
+review_id,date,city,platform,rating,review_text
+VAL-00001,2026-07-20,Pune,android,1,"Late night from a new place. Can't search by dish name properly, only restaurant names work. Sigh. Plus the dessert I ordered was never in the bag."
+VAL-00002,2026-09-06,Delhi,android,5,"Plenty of food, more than I expected. Superb. Happy customer."
+VAL-00003,2026-08-05,Delhi,android,1,"Refund ticket closed as 'resolved' but I never got my money. Really annoying. Also, paid by card, app still shows payment pending. Happens way too often."
+VAL-00004,2026-07-12,Mumbai,android,1,"Dinner from a new place. Support agent closed the chat without resolving anything. Plus so, the dessert I got was never in the bag. Uninstalling."
+VAL-00005,2026-10-06,Chennai,android,1,"Lunch from a new place. Ugh, asked for a refund for a spoilt item, they gave me only 10%. Really annoying. Also, too expensive for the quality, I'll cook at home. Sigh."
+VAL-00006,2026-08-06,Bengaluru,android,1,"Honestly, prices keep going up but nothing else improves. Uninstalling."
+VAL-00007,2026-09-30,Mumbai,ios,5,Ordered momos at 11 pm. No bugs at all since the last update. Loved it
+VAL-00008,2026-08-31,Mumbai,ios,5,Super quick delivery even in the rain. Brilliant.
+VAL-00009,2026-09-12,Hyderabad,android,3,"Seriously, delivered in 18 minutes flat. The final bill was almost double the menu price after all the fees. Mixed experience overall."
+VAL-00010,2026-10-11,Hyderabad,ios,4,"Tuesday evening snack order. So, very smotoh app experience."
+VAL-00011,2026-08-22,Bengaluru,ios,2,"Raised a complaint, got a copy-paste apology and nothing else. Plus promised in 30, delivered in 80. Seriously, even the naans were soft and warm. Superb."
+VAL-00012,2026-07-13,Bengaluru,android,1,"Search is terrible, typing burger shows random restaurants. 😞"
+VAL-00013,2026-08-01,Chennai,android,1,"Wow, only 70 minutes for a pizza. Truly lightning speed 👏"
+VAL-00014,2026-08-29,Mumbai,ios,1,"Late night from a new place. The order was stuck at 'arriving soon' for 40 mins. On top of that, still waiting for my refund after 10 days. Fed up."
+VAL-00015,2026-08-15,Mumbai,android,1,Ordered pizza for myself. Wallet balance not getting used at checkout. Every single time. Expected better.
+VAL-00016,2026-10-16,Pune,ios,1,.
+VAL-00017,2026-10-22,Pune,android,2,"the biryani box was half rice, barely any chicken. unacceptable. fed up. 😤"
+VAL-00018,2026-10-21,Delhi,android,1,Refund went to some wallet instead of my bank account. Uninstalling. 😡
+VAL-00019,2026-10-01,Pune,android,1,Rs 349 in fees on a Rs 200 order is daylight robbery. Fed up.
+VAL-00020,2026-10-08,Pune,android,1,Tried the momos today. The box was crushed and the momos was squashed. Sigh. Uninstalling.
+VAL-00021,2026-09-16,Chennai,android,3,"Customer care chatbot kept looping the same three options. On top of that, payment went thruogh instantly. Loved it. Overall okay-ish"
+VAL-00022,2026-07-01,Delhi,android,1,"not gonna lie, the kathi roll had a burnt taste. plus not gonna lie, everything was swimming in gravy when i opened the bag. sigh. fed up."
+VAL-00023,2026-07-25,Pune,android,2,"Got butter chicken for late night. Wallet balance not getting used at checkout. And raised a complaint, got a copy-paste apology and nothing else. Please fix this."
+VAL-00024,2026-07-10,Delhi,android,1,"Ordered dal makhani for my husband. Seriously, the naan had gone rubbery and cold. Uninstalling."
+VAL-00025,2026-10-23,Delhi,android,2,"Oh great, gravy bath for my rotis again. Love the creativity in packaging."
+VAL-00026,2026-09-17,Pune,ios,3,"So, app crashes every time I open the cart. Also, every item was there, ntohing missing. 😞"
+VAL-00027,2026-08-21,Pune,ios,2,"Seriously, dal leaked through the container and soaked the rotis. Not the first time either. Too many ads and banners, hard to find anything. Unacceptable."
+VAL-00028,2026-10-11,Mumbai,ios,1,"To be honest, packaging was flimsy, cheap plastic boxes that bent. But to be honest, eTA on the tracker was pure fiction. Not ordering again."
+VAL-00029,2026-09-11,Chennai,android,4,"Myself wanted paneer tikka, so we ordered. Not gonna lie, great value for money. Keep it up."
+VAL-00030,2026-07-15,Pune,ios,1,"late night from a new place. packaging was flimsy, cheap plastic boxes that bent. really annoying. also, honestly the worst pizza i've had in this city. very disappointed."
+VAL-00031,2026-08-10,Delhi,android,5,Lunch from a new place. Bank card offer aplpied smoothly. Kudos. Highly recommend.
+VAL-00032,2026-08-23,Hyderabad,ios,2,"Saturday late night order. The biryani box was half rice, barely any chicken. Plus still waiting for my refund after 9 days. On top of that, rider was smoking while handing over the food, disgusting. Not ordering again. 😞"
+VAL-00033,2026-09-11,Bengaluru,ios,4,"Friday late night order. Extremely oily and tasteless, total waste. Happens way too often. Also, got exactly what I got, customisations respected. Mixed experience overall."
+VAL-00034,2026-07-31,Hyderabad,android,1,"Ugh, packet was torn and the sauce was all over the place. Not the first time either. Fed up."
+VAL-00035,2026-08-08,Pune,android,2,"Everything I got was in the bag. On top of that, the naan had gone rubbery and cold."
+VAL-00036,2026-09-02,Mumbai,ios,4,"quickest delivery i've had in this area. brilliant. on top of that, saved cards make payment super quick. plus dal leaked thruogh the container and soaked the rotis. overall okay-ish."
+VAL-00037,2026-07-24,Mumbai,ios,2,Got hakka noodles for dinner. Card payment got stuck on processing and the order was not placed. 🤬
+VAL-00038,2026-07-13,Hyderabad,ios,2,support wale reply hi nahi karte
+VAL-00039,2026-07-02,Mumbai,android,4,got momos for eveinng snack. eta on the tracker was pure fiction. not the first time either. but refund credited to my upi within an hour. mixed experience overall.
+VAL-00040,2026-10-27,Pune,ios,1,App closes on its own while placing the order. Happens way too often. Not ordering again.
+VAL-00041,2026-07-03,Chennai,android,3,"Well, every coupon says 'expired' even when it's valid till month end. Happens way too often. Saved cards make payment super quick. Overall okay-ish."
+VAL-00042,2026-10-01,Hyderabad,android,3,"Lunch from a new place. Hidden charges appear only at checkout, really sneaky. And the delivery partner was very polite and even waited while I found change."
+VAL-00043,2026-07-10,Pune,ios,4,"Ordered pasta at 7:30. Loved the live tracking, could see exactly where the rider was. No complaints. Every item was there, nothing missing. Will order again!"
+VAL-00044,2026-10-09,Mumbai,ios,3,"Tried the burger today. Ugh, very smooth app experience. On top of that, every coupon says 'expired' even when it's valid till month end."
+VAL-00045,2026-09-12,Delhi,ios,1,quantity bahut kam thi is price mein
+VAL-00046,2026-07-11,Pune,android,2,Payment falied but money got deducted from my account.
+VAL-00047,2026-08-28,Pune,android,1,"Ordered pizza on Friday. Not gonna lie, the curry leaked all over the bag. Happens way too often. Very disappointed."
+VAL-00048,2026-10-15,Bengaluru,android,1,hmm
+VAL-00049,2026-07-13,Hyderabad,android,3,"the kids wnated hakka noodles, so we ordered. payment failed but money got deducted from my account. not the first time either. plus ugh, loved the eco-friendly packaging. mixed experience overall."
+VAL-00050,2026-08-15,Bengaluru,android,2,Still waiting for my refund after 4 days. Expected better.
+VAL-00051,2026-10-11,Mumbai,ios,2,"ordered chole bhature for my wife. honestly the worst chole bhature i've had in this city. on top of that, late again. i literally finished my meeting before the order showed up. every single time."
+VAL-00052,2026-10-15,Hyderabad,android,4,Ordered butter chicken at 9 am. All items delivered correctly including the add-ons.
+VAL-00053,2026-08-26,Delhi,android,1,"my flatmates wanted pizza, so we ordered. cheaper to eat at the restaurant than order from here. on top of that, bag had only the main course, sides were not packed. the pizza was bland and tasted nothing like what we get at the restaurant. fed up."
+VAL-00054,2026-07-07,Bengaluru,android,3,.
+VAL-00055,2026-09-03,Bengaluru,android,1,"My parents wanted burger, so we ordered. I placed an order for a large, they sent a small. And the order was stuck at 'arriving soon' for 40 mins. Every single time. Please fix this."
+VAL-00056,2026-07-12,Hyderabad,android,1,"The app forgot my saved address again after the update. Also, well, the final bill was almost double the menu price after all the fees. Not ordering again."
+VAL-00057,2026-09-21,Delhi,ios,2,Got fish curry for lunch. Still waiting for my refund after 7 days. But everything I ordered was in the bag.
+VAL-00058,2026-07-26,Delhi,android,2,"Ordered fried rice for my flatmates. Food was not fresh at all, looked like it was made yesterday. Please fix this."
+VAL-00059,2026-08-02,Hyderabad,android,2,"Ordered pasta for my husband. Can't search by dish name properly, only restaurant names work. And to be honest, got a full refund intsantly for the missing item."
+VAL-00060,2026-10-30,Bengaluru,ios,2,"Ordered momos on Tuesday. Seriously, cart keeps emptying itself randomly. Fed up."
+VAL-00061,2026-10-06,Bengaluru,android,4,"Tried the dal makhani today. Lovely delivery guy, wished us happy birthday when he saw the cake. Keep it up. ❤️"
+VAL-00062,2026-08-22,Chennai,android,1,"Ordered pizza on Friday. Paid by card, app still shows payment pending."
+VAL-00063,2026-07-13,Bengaluru,android,2,"Tried the chole bhature today. ₹120 in fees on a Rs 200 order is daylight robbery. Plus they said 25 minutes, it took 120. Not acceptable when you're hungry."
+VAL-00064,2026-08-29,Mumbai,ios,2,hmm
+VAL-00065,2026-09-13,Mumbai,android,1,"Not gonna lie, the app forgot my saved address again after the update. Very disappointed."
+VAL-00066,2026-08-29,Hyderabad,ios,1,"Raised a complaint, got a copy-paste apology and nothing else."
+VAL-00067,2026-07-09,Hyderabad,ios,4,Loved the eco-friendly packaging. Keep it up.
+VAL-00068,2026-08-02,Bengaluru,ios,5,"The tracking map is very smooth and reliable. Plus not a single leak, impressive packing. Happy customer."
+VAL-00069,2026-10-15,Hyderabad,android,3,"ordered fried rice at 1 am. the support executive understood the problem immediately. and the dessert i ordered was never in the bag. not the first time either. and the fried rice was absolutely delicious, just like home."
+VAL-00070,2026-08-25,Bengaluru,ios,5,"Breakfast from a new place. Best pizza I've got online, full of flavour. Keep it up."
+VAL-00071,2026-07-22,Pune,android,5,Ordered kathi roll at 9 am. The delivery partner was very polite and even waited while I found change. Will order again!
+VAL-00072,2026-08-28,Hyderabad,android,1,"tried the pizza today. to be honest, app closes on its own while placing the order. and refund status says prcoessed but nothing in my account."
+VAL-00073,2026-09-03,Bengaluru,ios,1,The bank offer never works on this app. Every single time. Uninstalling.
+VAL-00074,2026-09-06,Pune,android,1,"Promised in 30, delivered in 110. Plus the bread was hard and stale, definitely not made fresh. Really annoying. Very disappointed."
+VAL-00075,2026-10-27,Chennai,ios,1,"Evening snack from a new place. Too expensive for the quality, I'll cook at home. Please fix this."
+VAL-00076,2026-08-09,Bengaluru,android,5,"My flatmates wanted butter chicken, so we ordered. Got a full refund instantly for the missing item. Happy customer."
+VAL-00077,2026-08-12,Chennai,android,3,"Prices keep going up but nothing else improves. But oil seeped through the bag onto my sofa. Plus to be honest, exactly the variant I picked, thank you. Overall okay-ish. 😤"
+VAL-00078,2026-09-23,Pune,android,1,Packet was torn and the sauce was all over the place. And coupon code failed at checkout with 'not applicable' every time. Happens way too often. 😞
+VAL-00079,2026-10-30,Delhi,android,5,"Well, even the naans were soft and warm."
+VAL-00080,2026-08-28,Bengaluru,android,2,"Sure, call it a 'large' portion. Large for an ant maybe."
+VAL-00081,2026-09-04,Bengaluru,android,2,"Hassle-free refund, money back in my account the same day. Also, express delivery my foot, it took 75 mins. Happens way too often. Plus to be honest, card payment got stuck on proecssing and the order was not placed. Hope they improve."
+VAL-00082,2026-10-26,Bengaluru,android,3,"Seriously, delivered in 18 minutes flat. The final bill was almost double the menu price after all the fees. Mixed experience overall."
+VAL-00083,2026-09-02,Bengaluru,android,1,"Not gonna lie, app closes on its own while placing the order. But sweet when it should have been spicy, weird combination."
+VAL-00084,2026-07-06,Delhi,android,1,jhfdjkshf
+VAL-00085,2026-07-29,Bengaluru,android,2,"Liked that there was no packaging charge. But to be honest, asked for a refund for a spoilt item, they gave me only 10%."
+VAL-00086,2026-10-25,Mumbai,android,1,"Monday breakfast order. Promised in 30, delivered in 75. Not the first time either. And the masala dosa was bland and tasted nothing like what we get at the restaurant. Really annoying. Fed up."
+VAL-00087,2026-07-29,Delhi,ios,5,"Sunday lunch order. Not gonna lie, loved the first-order discount. Highly recommend."
+VAL-00088,2026-08-01,Pune,ios,2,Ordered biryani at 11 pm. Too many plasitc bags for one small order.
+VAL-00089,2026-07-26,Mumbai,android,5,"My flatmates wanted chole bhature, so we ordered. Well, the chole bhature was absolutely delicious, just like home. To be honest, quickest delivery I've had in this area. Highly recommend."
+VAL-00090,2026-08-19,Mumbai,ios,4,"Got kathi roll for evening snack. Honestly, great discounts, saved Rs 349 on this order."
+VAL-00091,2026-10-13,Pune,ios,2,"Lunch from a new place. Card payment got stuck on processing and the order was not placed. But seriously, coupon code failed at checkout with 'not applicable' every time. Happens way too often. Very disappointed."
+VAL-00092,2026-07-12,Delhi,ios,1,"Seriously, paper bag was so thin it tore when I picked it up. Uninstalling."
+VAL-00093,2026-08-16,Mumbai,ios,5,"not gonna lie, delivered in 18 min flat. loved it. highly recommend."
+VAL-00094,2026-10-19,Bengaluru,android,4,"Lunch from a new place. Super quick delivery even in the rain. Kudos. But seriously, can't search by dish name properly, only restaurant names work. Mixed experience overall."
+VAL-00095,2026-07-12,Bengaluru,ios,5,Ordered momos at 11 pm. No bugs at all since the last update. Loved it
+VAL-00096,2026-10-02,Pune,android,2,"Ordered mdeium spicy, got extra spicy. Not ordering again."
+VAL-00097,2026-07-20,Bengaluru,android,3,"Fries were cold and limp, clearly sitting around for a while. All items delivered correctly including the add-ons. Also, even the soup reached without a single drop spilled."
+VAL-00098,2026-07-27,Pune,android,1,Monday late night order. Refund went to some wallet instead of my bank account. Please fix this.
+VAL-00099,2026-10-05,Pune,android,3,"The delivery partner was very polite and even waited while I found change. Plus all items delivered correctly including the add-ons. No complaints. Also, gST plus fees plus tip prompt, the pizza ended up costing Rs 99. Mixed experience overall."
+VAL-00100,2026-08-31,Hyderabad,android,5,"Ordered pasta on Thursday. To be honest, every item was there, nothing missing."
+VAL-00101,2026-08-16,Mumbai,android,2,"Got paneer tikka for lunch. Not gonna lie, the order was stuck at 'arriving soon' for 40 minutes."
+VAL-00102,2026-09-04,Chennai,ios,2,"Quantity has reduced drastically, half the box was empty. Unacceptable. Plus cashback promised never got credited. Also, honestly, the order was stuck at 'arriving soon' for 40 mins. Unacceptable. Uninstalling."
+VAL-00103,2026-08-23,Mumbai,ios,2,"Ugh, the live map showed the rider going in the opposite direction for 15 minutes. 😞"
+VAL-00104,2026-10-07,Delhi,ios,2,"Too many ads and banners, hard to find anything. Pathetic."
+VAL-00105,2026-09-28,Chennai,android,1,"GPS location of the delivrey partner never updated, no idea where my order was. Very disappointed."
+VAL-00106,2026-07-20,Mumbai,android,1,"Express delivery my foot, it took 110 min. Very disappointed."
+VAL-00107,2026-07-16,Chennai,android,1,"Too many ads and banners, hard to find anything. Plus the order was stuck at 'arriving soon' for 40 mins. Expected better."
+VAL-00108,2026-09-30,Hyderabad,ios,2,...
+VAL-00109,2026-09-26,Hyderabad,android,2,"Everything was swimming in gravy when I opened the bag. Plus seriously, lovely delivery guy, wished us happy birthday when he saw the cake. On top of that, not gonna lie, i ordered a large, they sent a small. Overall okay-ish."
+VAL-00110,2026-07-17,Chennai,ios,1,"The kids wnated shawarma, so we ordered. The live map showed the rider going in the opposite direction for 15 minutes. Not the first time either. On top of that, drinks were missing from the combo."
+VAL-00111,2026-08-24,Bengaluru,ios,1,"My wife wanted fish curry, so we ordered. Refund status says processed but nothing in my account. Fed up."
+VAL-00112,2026-07-30,Pune,ios,1,"Tried the paneer tikka today. Asked for a refund for a spoilt item, they gave me only 10%. Felt like a rip-off for such average food. Every single time. Not ordering again."
+VAL-00113,2026-07-21,Delhi,ios,3,everything i ordered was in the bag. the help chat disconnects every time i explain my problem.
+VAL-00114,2026-09-20,Bengaluru,android,3,"Every item was there, nothing missing. Packaging was flimsy, cheap plastic boxes that bent. Pathetic. On top of that, late again. I literally finished my meeting before the order showed up."
+VAL-00115,2026-10-13,Bengaluru,android,2,Ice cream had melted completely. Very disappointed. 👎
+VAL-00116,2026-10-02,Mumbai,ios,2,"Hassle-free refund, money back in my account the same day. Plus the bread was hard and stale, definitely not made fresh."
+VAL-00117,2026-08-26,Pune,android,5,"ordered momos at noon. hassle-free refund, money back in my account the same day."
+VAL-00118,2026-10-09,Pune,android,5,"Evening snack from a new place. Well, payment went through instantly."
+VAL-00119,2026-08-09,Pune,android,5,"So, low delivery charges comapred to other apps. Kudos."
+VAL-00120,2026-10-18,Chennai,android,2,"Not gonna lie, the delivery guy was rude and refused to come up to the third floor. Fed up."
+VAL-00121,2026-09-21,Mumbai,ios,1,"honestly, cart keeps emptying itself randomly. not the first time either. late again. i literally finished my meeting before the order showed up."
+VAL-00122,2026-07-24,Hyderabad,ios,2,"Got hakka noodles for evening snack. Support agent closed the chat without resolving anything. Really tasty, the whole family enjoyed it. Top notch."
+VAL-00123,2026-10-19,Chennai,ios,2,Ordered fish curry at 11 pm. Promo code applied but the discount disappeared after payment.
+VAL-00124,2026-09-28,Hyderabad,android,1,"Promised in 30, delivered in 110. Plus gST plus fees plus tip prompt, the burger ended up costing ₹99."
+VAL-00125,2026-09-20,Pune,android,2,"Tried the biryani today. Seriously, late again. I literally finished my meeting before the order showed up. Uninstalling."
+VAL-00126,2026-10-03,Delhi,ios,5,"Hassle-free refund, money back in my account the same day. Brilliant. Really tasty, the whole family enjoyed it. Qucikest delivery I've had in this area. Top notch."
+VAL-00127,2026-08-01,Pune,android,5,"Tried the pav bhaji today. The pav bhaji was absolutely delicious, just like home. Will order again! 🔥"
+VAL-00128,2026-10-12,Bengaluru,android,5,Ordered hakka noodles for my wife. Love how easy the app is to navigate. 😋
+VAL-00129,2026-10-20,Bengaluru,android,2,The dessert I placed an order for was never in the bag. Sigh. Expected better.
+VAL-00130,2026-08-19,Delhi,ios,1,"Ordered kathi roll for the kids. Not gonna lie, still waiting for my refund after 3 days."
+VAL-00131,2026-09-15,Pune,android,1,The menu layout is confusing and the reorder button is hidden
+VAL-00132,2026-08-10,Chennai,android,1,"evening snack from a new place. only 10 pieces in a large order, seriously? and rider demanded a tip before handing over the bag."
+VAL-00133,2026-10-25,Bengaluru,android,1,"Ordered butter chicken at 9 am. Extremely oily and tasteless, total waste. And rider demanded a tip before handing over the bag. Expected better."
+VAL-00134,2026-09-29,Bengaluru,android,1,"Well, fries were cold and limp, clearly sitting around for a while. Pathetic. Not ordering again."
+VAL-00135,2026-10-09,Bengaluru,android,1,"Express delivery my foot, it took 70 mins. Unacceptable. Very disappointed."
+VAL-00136,2026-09-30,Mumbai,ios,1,"Fantastic, my 'hot' meal arrived at room temperature. Five stars for the AC."
+VAL-00137,2026-10-12,Pune,android,4,"Packaging was really good and kept everything intact. On top of that, drinks were missing from the combo. Overall okay-ish."
+VAL-00138,2026-07-11,Pune,android,5,"Ordered burger for the office team. Not a single leak, impressive packing. Loved it."
+VAL-00139,2026-09-24,Bengaluru,ios,2,"ordered veg thali on thursday. so, refund was promised a week ago and still not received. plus app closes on its own while placing the order."
+VAL-00140,2026-10-12,Mumbai,ios,1,App crashes every time I open the cart. Uninstalling.
+VAL-00141,2026-08-20,Pune,android,5,"My flatmates wanted paneer tikka, so we ordered. The paneer tikka was still steaming when I opened the box. Kudos. Happy customer"
+VAL-00142,2026-10-20,Hyderabad,android,2,Ordered fried rice on Saturday. Aluminium foil packing was torn in places. Very disappointed.
+VAL-00143,2026-09-08,Bengaluru,ios,5,Bank card offer applied smoothly. Happy customer.
+VAL-00144,2026-07-20,Mumbai,android,2,"got veg thali for evening snack. too expensive for the quality, i'll cook at home. plus promised in 30, delivered in 65."
+VAL-00145,2026-09-21,Chennai,ios,5,"खाना बहुत स्वादिष्ट था, फिर से ऑर्डर करूंगा"
+VAL-00146,2026-07-20,Delhi,android,1,Prices keep going up but nothing else improves.
+VAL-00147,2026-07-01,Chennai,ios,1,👍
+VAL-00148,2026-07-24,Mumbai,android,1,"Wow, only 95 minutes for a pizza. Truly lightning speed 👏"
+VAL-00149,2026-08-24,Bengaluru,ios,3,"The kids wanted biryani, so we ordered. The biryani had a burnt taste. But quickest delivery I've had in this area. Superb."
+VAL-00150,2026-07-28,Bengaluru,ios,1,evening snack from a new place. the idli vada tasted stale and had a weird sour smell.
+VAL-00151,2026-09-26,Hyderabad,android,1,"Ordered hakka noodles for my parents. To be honest, dal leaked through the container and soaked the rotis. Not ordering again."
+VAL-00152,2026-10-17,Mumbai,android,5,"got pav bhaji for lunch. hassle-free refund, money back in my acocunt the same day."
+VAL-00153,2026-08-15,Hyderabad,android,3,"Tried the kathi roll today. So, hidden charges appear only at checkout, seriously sneaky. Not the first time either. On top of that, ugh, super quick delivery even in the rain. 😞"
+VAL-00154,2026-07-10,Delhi,ios,2,"Got biryani for dinner. Seriously, regular size felt like a sample size. Please fix this."
+VAL-00155,2026-07-17,Bengaluru,android,3,"Ordered paneer tikka at 7:30. Food was not fresh at all, looked like it was made yesterday. And well packed with separate boxes for each item. And my paneer tikka was missing from the order. Unacceptable."
+VAL-00156,2026-10-05,Mumbai,android,4,"Raised a complaint, got a copy-paste apology and nothing else. But ice cream had melted completely. But liked that there was no packaging charge. Hope they improve."
+VAL-00157,2026-10-15,Hyderabad,android,1,"My parents wanted pav bhaji, so we ordered. Honestly, oil seeped through the bag onto my sofa. Uninstalling."
+VAL-00158,2026-10-23,Delhi,ios,5,"So, app runs smoothly, never crashed once."
+VAL-00159,2026-10-06,Chennai,ios,5,Got a full refund instantly for the missing item. Highly recommend.
+VAL-00160,2026-07-04,Pune,ios,2,"Late night from a new place. To be honest, the naan had gone rubbery and cold. On top of that, very smooth app experience. Superb. And low delivery charges compared to other apps. Hope they improve."
+VAL-00161,2026-09-21,Hyderabad,android,5,"The kids wanted pizza, so we ordered. Loved the first-order discount."
+VAL-00162,2026-09-09,Chennai,android,2,The app forgot my saved address again after the update. Uninstalling.
+VAL-00163,2026-07-16,Hyderabad,ios,1,"Ordered hakka noodles for my husband. Cashback promised never got credited. On top of that, can't search by dish name properly, only restaurant names work. Very disappointed."
+VAL-00164,2026-10-31,Hyderabad,ios,2,"breakfast from a new place. constant crashes since the new version, unusable."
+VAL-00165,2026-08-20,Hyderabad,android,2,"Wow, only 90 minutes for a pizza. Truly lightning speed 👏"
+VAL-00166,2026-08-04,Delhi,android,2,Ordered dal makhani for my flatmates. My dal makhani was missing from the order. Fed up.
+VAL-00167,2026-08-06,Delhi,android,2,Charged twice for the same order. Please fix this.
+VAL-00168,2026-09-05,Delhi,android,2,"Food was not fresh at all, lokoed like it was made yesterday. Fed up."
+VAL-00169,2026-07-12,Chennai,ios,1,Regular size felt like a sample size.
+VAL-00170,2026-10-05,Delhi,android,1,Got butter chicken for late night. App closes on its own while placing the order. Pathetic.
+VAL-00171,2026-09-30,Chennai,android,2,"lunch from a new place. well, extremely oily and tasteless, total waste. very disappointed."
+VAL-00172,2026-08-04,Mumbai,ios,5,"My husband wanted fried rice, so we ordered. Food was piping hot when it arrived. Happy customer."
+VAL-00173,2026-08-24,Pune,ios,1,Delivery executive was on a call the whole time and threw the bag at the door. Pathetic. Very disappointed.
+VAL-00174,2026-09-19,Delhi,android,5,Low delivery charges compared to other apps. Happy customer.
+VAL-00175,2026-08-21,Pune,ios,1,"The bank offer never works on this app. Not gonna lie, packaging was flimsy, cheap plastic boxes that bent. Expected better."
+VAL-00176,2026-07-02,Delhi,android,2,"lunch from a new place. regular size felt like a sample size. and honestly, food arrived so late that we had already cooked maggi at home. unacceptable. please fix this."
+VAL-00177,2026-08-07,Pune,android,2,Odrered veg thali at 7:30. The order was stuck at 'arriving soon' for 40 mins. Very disappointed.
+VAL-00178,2026-08-31,Mumbai,android,2,"Well, quickest delivery I've had in this area. But the dal makhani tasted stale and had a weird sour smell. Mixed experience overall."
+VAL-00179,2026-10-07,Mumbai,ios,4,Got biryani for late night. The delivery partner was so polite and even waited while I found change. Plus no bugs at all since the last update. Loved it. Happy customer. 😋
+VAL-00180,2026-08-06,Bengaluru,android,2,App logged me out randomly and my cart was gone. Every single time. Uninstalling
+VAL-00181,2026-10-21,Chennai,android,1,"my husband wanted pav bhaji, so we ordered. half the order was missing and the restaurant blamed the rider. expected better."
+VAL-00182,2026-10-30,Chennai,android,1,"The bread was hard and stale, definitely not made fresh. Every single time. Oil seeped through the bag onto my sofa. Really annoying. Uninstalling."
+VAL-00183,2026-10-09,Delhi,ios,2,"To be honest, food arrived so late that we had already cooked maggi at home. Also, no spills at all, everything was tightly sealed. Plus not gonna lie, love how easy the app is to navigate. Kudos. Hope they improve."
+VAL-00184,2026-07-26,Chennai,android,1,Tuesday dinner order. ETA kept increasing every five minutes and the food came almost an hour late. Very disappointed.
+VAL-00185,2026-10-21,Bengaluru,ios,2,"To be honest, sweet when it should have been spicy, weird combination. On top of that, ugh, bag had only the main course, sides were not packed. And spent 30 minutes explaining the issue to three different agents. 😡"
+VAL-00186,2026-09-09,Delhi,ios,5,tried the paneer tikka today. well packed with separate boxes for each item. happy customer.
+VAL-00187,2026-07-04,Chennai,ios,2,Tried the kathi roll today. The order was stuck at 'arriving soon' for 40 mins. Expected better.
+VAL-00188,2026-08-19,Pune,ios,1,"Got pizza for dinner. Ugh, oil seeped through the bag onto my sofa. But well, refund went to some wallet instead of my bank account. Fed up"
+VAL-00189,2026-09-04,Mumbai,android,1,"they said 25 minutes, it took 80. not acceptable when you're hungry. and the paneer tikka had a burnt taste. not ordering again."
+VAL-00190,2026-07-28,Hyderabad,ios,5,"well, great discounts, saved rs 99 on this order."
+VAL-00191,2026-07-02,Delhi,android,3,"Breafkast from a new place. Drinks were missing from the combo. On top of that, not gonna lie, the tracking map is very smooth and reliable."
+VAL-00192,2026-08-15,Pune,ios,3,"Ugh, liked that there was no packaging charge. Superb. On top of that, the menu layout is confusing and the reorder button is hidden."
+VAL-00193,2026-08-03,Chennai,ios,4,"Food was not fresh at all, looked like it was made yesterday. On top of that, honestly, even the soup arrived without a single drop spilled. Also, refund went to some wallet instead of my bank account. 😞"
+VAL-00194,2026-07-11,Hyderabad,android,1,"Express delivery my foot, it took 95 mins. Happens way too often. Very disappointed."
+VAL-00195,2026-10-30,Delhi,android,5,"Ordered fish curry on Friday. Saved cards make payment super quick. Plus lip-smacking fish curry, will definitely reorder. Bank card offer applied smoothly. Will order again!"
+VAL-00196,2026-08-30,Delhi,android,5,"Ordered shawarma at 1 am. Well, payments are smooth, UPI works in one tap. Brilliant"
+VAL-00197,2026-08-09,Delhi,android,5,"Got chole bhature for late night. To be honest, love how easy the app is to navigate. Superb. Keep it up."
+VAL-00198,2026-09-20,Pune,ios,4,"Ordered pav bhaji on Wednesday. Promo code applied but the discount disappeared after payment. Happens way too often. But well, super quick delivery even in the rain."
+VAL-00199,2026-07-10,Mumbai,ios,1,"The order was stuck at 'arriving soon' for 40 minutes. On top of that, honestly, sweet when it should have been spicy, weird combination. Not ordering again."
+VAL-00200,2026-10-12,Pune,ios,2,"My husband wanted pav bhaji, so we ordered. They said 25 min, it took 80. Not acceptable when you're hungry. Really annoying. Also, constant crashes since the new version, unusable. Uninstalling."
+VAL-00201,2026-07-24,Mumbai,ios,1,received chicken instead of the veg biryani i ordered. i am vegetarian!
+VAL-00202,2026-09-18,Hyderabad,ios,3,"Got hakka noodles for breakfast. Every coupon says 'expired' even when it's valid till month end. On top of that, support agent was super helpful and resolved my issue in two minutes. Hope they improve."
+VAL-00203,2026-09-03,Delhi,ios,2,Tried the pizza today. Rs 120 in fees on a Rs 200 order is daylight robbery.
+VAL-00204,2026-09-18,Hyderabad,ios,1,ordered idli vada for a friend. customer care chatbot kept looipng the same three options. very disappointed.
+VAL-00205,2026-07-10,Bengaluru,android,4,"where is my second veg thali? only one came. honestly, payment went through instantly. hope they improve."
+VAL-00206,2026-07-18,Hyderabad,ios,3,"honeslty the worst burger i've had in this city. but great discounts, saved rs 199 on this order. brilliant. 😤"
+VAL-00207,2026-07-15,Chennai,android,5,"The rider called politely and came right to my door. Also, generous portions, two of us could share one hakka noodles. Brilliant. Will order again!"
+VAL-00208,2026-08-28,Chennai,android,4,"Ordered veg thali for my husband. Lip-smacking veg thali, will definitely reorder. Took me ages to find the help section. But seriously, too expensive for the quality, I'll cook at home."
+VAL-00209,2026-07-31,Pune,android,2,"got fried rice for evening snack. aluminium foil packing was torn in places. also, coupon code failed at checkout with 'not applicable' every time. every single time. not ordering again."
+VAL-00210,2026-07-28,Hyderabad,android,2,"Refund was promised a week ago and still not received. Sigh. The order was stuck at 'arriving soon' for 40 minutes. But only 4 pieces in a large order, seriously? Not ordering again."
+VAL-00211,2026-09-07,Hyderabad,android,1,Ordered momos for my husband. Card payment got stuck on processing and the order was not placed. Please fix this.
+VAL-00212,2026-09-17,Bengaluru,android,2,"Great job charging me twice, my bank appreciates the extra transactions."
+VAL-00213,2026-07-04,Delhi,android,2,"Customer care chatbot kept looping the same three options. Not gonna lie, late again. I literally finished my meeting before the order showed up."
+VAL-00214,2026-10-13,Hyderabad,android,5,"To be honest, well packed with separate boxes for each item. Happy customer."
+VAL-00215,2026-09-19,Delhi,android,1,Ordered momos on Wednesday. The menu layout is confusing and the roerder button is hidden. Unacceptable.
+VAL-00216,2026-07-30,Bengaluru,android,1,"my hsuband wanted kathi roll, so we ordered. the kathi roll tasted stale and had a weird sour smell. uninstalling."
+VAL-00217,2026-07-09,Chennai,ios,1,"To be honest, search is terrible, typing burger shows random restaurants."
+VAL-00218,2026-10-21,Hyderabad,android,2,"ordered hakka noodles for my parents. they said 25 min, it took 90. not acceptable when you're hungry. sigh."
+VAL-00219,2026-09-11,Pune,android,1,"got pasta for dinner. they said 25 minutes, it took 80. not acceptable when you're hungry. not ordering again."
+VAL-00220,2026-07-09,Hyderabad,android,1,Ordered burger at noon. Wallet balance not getting used at checkout. Please fix this.
+VAL-00221,2026-10-13,Delhi,ios,3,"Finding restaurants near me is really easy. Only 7 pieces in a large order, seriously? Not the first time either. Hope they improve."
+VAL-00222,2026-07-04,Delhi,android,2,Tried the chole bhature today. The dessert I ordered was never in the bag. Fed up.
+VAL-00223,2026-09-05,Delhi,android,5,friday dinner order. the burger was still steaming when i opened the box.
+VAL-00224,2026-07-20,Mumbai,android,3,"The pasta was absolutely delicious, just like home. App closes on its own while placing the order. Mixed experience overall."
+VAL-00225,2026-10-11,Pune,ios,2,"khana bilkul thanda tha, paisa barbaad"
+VAL-00226,2026-08-13,Mumbai,ios,2,"the paneer tikka was absolutely delicious, just like home. on top of that, ugh, eta kept increasing every five minutes and the food came almost an hour late. pathetic."
+VAL-00227,2026-10-16,Delhi,android,2,Sunday late night order. Regular size felt like a sample size. Every single time.
+VAL-00228,2026-10-22,Pune,android,2,the chole bhature tasted stale and had a weird sour smell. please fix this.
+VAL-00229,2026-10-09,Chennai,ios,2,wednesday lunch order. charged twice for the same order. please fix this.
+VAL-00230,2026-09-03,Mumbai,ios,5,"Ordered butter chicken at 9 am. Hassle-free refund, money back in my account the same day. Happy customer."
+VAL-00231,2026-08-06,Mumbai,ios,1,ETA kept increasing every five minutes and the food came almost an hour late. 👎
+VAL-00232,2026-07-12,Pune,android,2,"Tried the idli vada today. They said 25 mins, it took 95. Not acceptable when you're hungry. And support agent was very helpful and resolved my issue in two minutes. No complaints. Hope they improve."
+VAL-00233,2026-09-04,Hyderabad,android,3,"Low delivery charges compared to other apps. Superb. App runs smoothly, never crashed once. But still waiting for my refund after 3 days. Hope they improve."
+VAL-00234,2026-07-07,Mumbai,ios,3,"Ordered dal makhani for my husband. Packet was torn and the sauce was all over the place. Pathetic. Plus to be honest, generous portions, two of us could share one dal makhani. Top notch. Hope they improve."
+VAL-00235,2026-07-08,Hyderabad,android,2,Got fried rice for evening snack. The curry lekaed all over the bag. Uninstalling.
+VAL-00236,2026-10-02,Hyderabad,ios,1,"Paid by card, app still shows payment pending. Sigh. Plesae fix this. 😞"
+VAL-00237,2026-09-04,Chennai,ios,2,"The naan had gone rubbery and cold. Really annoying. GPS location of the delivery guy never updated, no idea where my order was. Fed up. 👎"
+VAL-00238,2026-10-16,Pune,ios,3,"Portion size was tiny for Rs 249. And jain food requested, came with garlic and onion. Delivered in 18 minutes flat. Superb. Hope they improve"
+VAL-00239,2026-07-25,Chennai,android,3,"My flatmates wanted pav bhaji, so we ordered. Delivered in 18 minutes flat. Also, took me ages to find the help section."
+VAL-00240,2026-09-10,Bengaluru,ios,1,"Ordered shawarma for the kids. Not gonna lie, still waiting for my refund after 7 days. Please fix this."
+VAL-00241,2026-08-31,Chennai,android,2,"Well, drinks were missing from the combo. Not the first time either. Very disappointed."
+VAL-00242,2026-08-09,Mumbai,ios,1,"the kids wanted pav bhaji, so we ordered. aluminium foil pacikng was torn in places. very disappointed."
+VAL-00243,2026-10-18,Hyderabad,ios,1,"Got burger for breakfast. Honestly, constant crashes since the new version, unusable."
+VAL-00244,2026-07-25,Pune,android,3,.
+VAL-00245,2026-08-19,Bengaluru,ios,1,hmm
+VAL-00246,2026-10-02,Chennai,android,2,"Dinner from a new place. Seriously, the menu layout is confusing and the reorder button is hidden"
+VAL-00247,2026-08-23,Hyderabad,ios,2,"So, sweet when it should have been spicy, weird combination. Not ordering again."
+VAL-00248,2026-10-17,Pune,android,1,Everything was swimming in gravy when I opened the bag. Very disappointed.
+VAL-00249,2026-09-17,Mumbai,android,2,ETA kept increasing every five minutes and the food came almost an hour late. Uninstalling.
+VAL-00250,2026-08-02,Delhi,android,1,"Wow, only 75 minutes for a pizza. Truly lightning speed 👏"
+VAL-00251,2026-10-21,Hyderabad,ios,2,jhfdjkshf
+VAL-00252,2026-08-07,Chennai,android,2,"Extreemly oily and tasteless, total waste."
+VAL-00253,2026-08-28,Pune,android,4,"Tried the momos today. Even the naans were soft and warm. Superb. Also, paid by card, app still shows payment pending. Hope they improve."
+VAL-00254,2026-10-01,Mumbai,android,1,"Fries were cold and limp, clearly sitting around for a while. Pathetic. Plus every week there is a new fee on the bill. Very disappointed."
+VAL-00255,2026-07-14,Hyderabad,android,1,"My husband wanted burger, so we ordered. Constant crashes since the new version, unusable. Fed up."
+VAL-00256,2026-07-25,Hyderabad,android,2,"saturday dinner order. ice cream had melted fully. not the first time either. also, my pav bhaji was missing from the order. please fix this. 🤬"
+VAL-00257,2026-07-22,Bengaluru,android,2,Delivery executive was on a call the whole time and threw the bag at the door. Expected better.
+VAL-00258,2026-07-04,Hyderabad,android,2,"Promised in 30, delivered in 75. Please fix this."
+VAL-00259,2026-09-01,Delhi,android,4,The box was crushed and the hakka noodles was squashed. Plus refund credited to my UPI within an hour. Loved it. But order was accurate down to the no-garlic request. Mixed experience overall.
+VAL-00260,2026-07-09,Bengaluru,android,2,Map showed the delivery guy at my building while he was nowhere near. Very disappointed.
+VAL-00261,2026-07-07,Delhi,android,5,Evening snack from a new place. Everything I ordered was in the bag. Highly recommend.
+VAL-00262,2026-07-29,Chennai,android,1,Ordered momos for my husband. Too many plastic bags for one small order. Expected better.
+VAL-00263,2026-08-15,Bengaluru,ios,2,Regular size felt like a sample size. Not ordering again.
+VAL-00264,2026-07-07,Hyderabad,ios,1,Breakfast from a new place. Every week there is a new fee on the bill. Not ordering again.
+VAL-00265,2026-07-02,Chennai,android,1,"Got pav bhaji for breakfast. Map showed the delivery guy at my building while he was nowhere near. So, totally overpriced for what you get. Expected better. 👎"
+VAL-00266,2026-09-23,Hyderabad,ios,2,Payment failed but money got deducted from my account. Uninstalling.
+VAL-00267,2026-07-09,Hyderabad,android,1,Coupon code failed at checkout with 'not applicable' every time. Fed up.
+VAL-00268,2026-07-31,Chennai,android,3,"Generous portions, two of us could share one dal makhani. Plus support agent closed the chat wtihout resolving anything. Mixed experience overall."
+VAL-00269,2026-09-30,Bengaluru,android,3,"Ordered dal makhani for my husband. Packet was torn and the sauce was all over the place. Pathetic. Plus to be honest, generous portions, two of us could share one dal makhani. Top notch. Hope they improve."
+VAL-00270,2026-07-23,Hyderabad,ios,4,"To be honest, liked that there was no packaging charge. Highly recommend."
+VAL-00271,2026-10-03,Chennai,ios,1,"evening snack from a new place. asked for a refund for a spoilt item, they gave me only 10%. expected better."
+VAL-00272,2026-09-04,Chennai,ios,1,"ordered veg thali at 8 pm. quantity has reduced drastically, half the box was empty."
+VAL-00273,2026-07-30,Hyderabad,android,1,Ordered pasta on Saturday. Spent 30 min explaining the issue to three different agents. Not ordering again.
+VAL-00274,2026-08-04,Delhi,android,2,App logged me out randomly and my cart was gone. Uninstalling.
+VAL-00275,2026-08-21,Bengaluru,android,2,Tried the hakka noodles today. Food arrived so late that we had already cooked maggi at home. Plus the final bill was almost double the menu price after all the fees. Pathetic. Very disappointed.
+VAL-00276,2026-07-11,Chennai,ios,1,"Extremely oily and tasteless, total waste. Expected better."
+VAL-00277,2026-09-25,Bengaluru,ios,4,"Ordered paneer tikka at 8 pm. Seriously, the paneer tikka was still steaming when I opened the box. Also, raised a complaint, got a copy-paste apology and nothing else. Overall okay-ish. 🤬"
+VAL-00278,2026-10-14,Chennai,ios,5,"Ordered biryani on Tuesday. So, huge portion size, had leftovers for dinner. But app runs smoothly, never crashed once."
+VAL-00279,2026-08-26,Mumbai,android,3,"Not gonna lie, not a single leak, impressive packing. But not gonna lie, refund was promised a week ago and still not received. Really annoying."
+VAL-00280,2026-08-10,Chennai,android,5,"Got idli vada for breakfast. App runs smoothly, never crashed once."
+VAL-00281,2026-07-30,Chennai,android,1,"Ordered butter chicken on Friday. Support agent closed the chat without resolving anything. Also, well, quantity has reduced drastically, half the box was empty. And received chicken instead of the veg butter chicken I got. I am vegetarian!"
+VAL-00282,2026-09-16,Delhi,ios,5,"Seriously, loved the eco-friendly packaging. Also, refund credited to my UPI within an hour. Happy customer. 😊"
+VAL-00283,2026-09-10,Pune,ios,1,"My husband wanted fish curry, so we ordered. Cheaper to eat at the restaurant than order from here. Every single time."
+VAL-00284,2026-07-14,Mumbai,ios,5,"Ordered masala dosa for myself. Not gonna lie, chat support was quick and understanding. Highly recommend."
+VAL-00285,2026-07-20,Hyderabad,android,2,Tuesday late night order. Even the naans were soft and warm. But ₹99 in fees on a Rs 200 order is daylight robbery.
+VAL-00286,2026-07-08,Hyderabad,android,1,"My husband wanted veg thali, so we ordered. I got a large, they sent a small. Really annoying. The biryani box was half rice, barely any chicken. Not ordering again."
+VAL-00287,2026-10-13,Hyderabad,android,3,"Too expensive for the quality, I'll cook at home. Honestly, delivered in 18 minutes flat. Hope they improve."
+VAL-00288,2026-08-31,Hyderabad,ios,3,"Not a single leak, impressive packing. And honestly the worst shawarma I've had in this city. Mixed experience overall. 😡"
+VAL-00289,2026-07-22,Mumbai,android,1,"My flatmates wanted hakka noodles, so we ordered. Food arrived so late that we had already cooked maggi at home. Not the first time either. Please fix this."
+VAL-00290,2026-09-24,Bengaluru,ios,1,"Express delivery my foot, it took 65 min. On top of that, ugh, ice cream had melted fully. Fed up."
+VAL-00291,2026-07-18,Chennai,ios,2,Wrong order delivered and the name on the bill was different. But quickest delivery I've had in this area. Mixed experience overall.
+VAL-00292,2026-07-08,Pune,android,4,"Saturday breakfast order. All items delivered correctly including the add-ons. Also, delivery was lightning fast, came in under 20 minutes. Will order again!"
+VAL-00293,2026-10-07,Hyderabad,android,5,"Tried the butter chicken today. Easy to find what I want, search works amazing. No complaints. Happy customer."
+VAL-00294,2026-09-22,Hyderabad,android,1,Tried the shawarma today. The shawarma tasted stale and had a weird sour smell. But customer care chatbot kept looping the same three options.
+VAL-00295,2026-08-17,Chennai,ios,2,The biryani had a burnt taste. Sigh. Fed up.
+VAL-00296,2026-08-17,Chennai,android,5,asdfgh
+VAL-00297,2026-09-16,Mumbai,android,1,"Support agent closed the chat without resolving anything. Not gonna lie, bag had only the main course, sides were not packed. Not ordering again."
+VAL-00298,2026-07-26,Hyderabad,ios,4,Breakfast from a new place. Chat support was quick and understanding. Brilliant. Keep it up.
+VAL-00299,2026-09-06,Delhi,ios,3,"The dal makhani tasted stale and had a weird sour smell. But to be honest, payments are smooth, UPI works in one tap. Also, refund went to some wallet instead of my bank account. Mixed experience overall."
+VAL-00300,2026-10-11,Hyderabad,android,1,"Tried the pasta today. Rider demanded a tip before handing over the bag. Plus the bread was hard and stale, definitely not made fresh. Very disappointed."
